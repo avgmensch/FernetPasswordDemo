@@ -1,0 +1,10 @@
+{
+    "python.analysis.typeCheckingMode": "strict",
+    "[python]": {
+        "editor.tabSize": 4,
+        "editor.rulers": [79]
+    },
+    "cSpell.words": [
+        "Fernet"
+    ]
+}
